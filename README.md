@@ -1,19 +1,16 @@
 # Smart-Agriculture-System-Using-IOT-ML
-This project is clone of Netflix UI. It was created using React and CSS. It uses [The MovieDB Api](https://www.themoviedb.org/documentation/api) to search for movies and display details 
+The project was to bring efficiency and accuracy in the field of agriculture by automating the entire agricultural process with the help of Internet of Things and Machine Learning
 
 ### Tools used:
 - Arduino
 - Python3 - Pandas, Numpy, Seaborn, Matplotlib, Sklearn
 
-
-### Runing Project
-- Install: run `npm install` 
-- Get API key [here](https://www.themoviedb.org)
-- Add your API Key in `\src\requests.js` file.
-- Run: `npm start`
+### Running Project
+- Create account on thinkspeak dashboard 
+https://thingspeak.com/
+- 
 
 ### Usage: 
-- User can the see trending and upcoming movies. Data updates weekly 
-- User can see the overview of movie.
-- User can also watch the trailer of movie my clicking on it.  
-- The webpage is responsive adapts to screen sizes. 
+- User can automatically turn On or turn Off the motor pump based on the soil moisture level readings from the sensor.
+- From Think Speak Dashboard user can check the soil moisture, humidity and temperature level.
+- User can predict the crop yield of his farm
