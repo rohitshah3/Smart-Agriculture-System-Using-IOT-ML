@@ -6,7 +6,7 @@ The project was to bring efficiency and accuracy in the field of agriculture by 
 - Python3 - Pandas, Numpy, Seaborn, Matplotlib, Sklearn
 
 ### Running Project
-- Create account on thinkspeak dashboard 
+- Create an account on thinkspeak dashboard 
 - https://thingspeak.com/
 - write the API key in the NodeMCU program given by the thingspeak dashboard after logging in
 
