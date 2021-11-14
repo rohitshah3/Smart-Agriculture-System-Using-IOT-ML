@@ -1,11 +1,10 @@
 # Smart-Agriculture-System-Using-IOT-ML
-This project is clone of Netflix UI. It was created using React and CSS. It uses [The MovieDB Api](https://www.themoviedb.org/documentation/api) to search for movies and display details and also [Movie-Trailer](https://www.npmjs.com/package/movie-trailer) to fetch the trailers of movies. Feel free to contribute!!
+This project is clone of Netflix UI. It was created using React and CSS. It uses [The MovieDB Api](https://www.themoviedb.org/documentation/api) to search for movies and display details 
 
 ### Tools used:
-- React & React-Context-API
-- Axios
-- Css (grid & flexbox)
-- Firebase
+- Arduino
+- Python3 - Pandas, Numpy, Seaborn, Matplotlib, Sklearn
+
 
 ### Runing Project
 - Install: run `npm install` 
